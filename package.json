@@ -1,7 +1,6 @@
 {
   "name": "users-api-server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "json-server db.json",
@@ -12,5 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qrescentlight/users-api-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/qrescentlight/users-api-server/issues"
+  },
+  "homepage": "https://github.com/qrescentlight/users-api-server#readme",
+  "description": ""
 }
