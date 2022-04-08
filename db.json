@@ -18,8 +18,8 @@
             "part": "dit is mijn aandeel voor Be Braive",
             "reflect": "dit is mijn reflectie voor Be Braive",
             "thumb": "braive.gif",
-            "link": "null",
-            "images": "null"
+            "link": null,
+            "images": null
          },
          "per": {
             "name": "Hoe maak ik keuzes?",
@@ -28,8 +28,8 @@
             "part": "dit is mijn aandeel voor persuasion",
             "reflect": "dit is mijn reflectie voor persuasion",
             "thumb": "customerjourney.gif",
-            "link": "null",
-            "images": "null"
+            "link": null,
+            "images": null
          },
          "sto": {
             "name": "Emotionele Mishandeling VR",
@@ -37,41 +37,9 @@
             "process": "Dit is mijn proces voor storytelling",
             "part": "dit is mijn aandeel voor storytelling",
             "reflect": "dit is mijn reflectie voor storytelling",
-            "thumb": "",
-            "link": "null",
-            "images": "null"
-         }
-      },
-      "moreitems": {
-         "nad": {
-            "name": "From Song to Story",
-            "desc": "From Song to Story is een interactief concept om een verhaal te maken aan de hand van de Heldenreis door muziek te spelen op een fysieke pianomat.",
-            "process": "Dit is mijn proces voor nad",
-            "part": "dit is mijn aandeel voor nad",
-            "reflect": "dit is mijn reflectie voor nad",
-            "thumb": "hero.gif",
-            "link": "null",
-            "images": "null"
-         },
-         "p5js": {
-            "name": "UNRULY SPRING",
-            "desc": "UNRULY SPRING is een static shootergame gemaakt in P5.js.",
-            "process": "Dit is mijn proces voor p5js",
-            "part": "dit is mijn aandeel voor p5js",
-            "reflect": "dit is mijn reflectie voor p5js",
-            "thumb": "remcosspel_2_2.gif",
-            "link": "null",
-            "images": "null"
-         },
-         "keu2": {
-            "name": "Portfolio ",
-            "desc": "Deze portfoliowebsite is een Single Page Application met een eigengemaakte API en Framework.",
-            "process": "Dit is mijn proces voor mijn portfolio",
-            "part": "dit is mijn aandeel voor mijn portfolio",
-            "reflect": "dit is mijn reflectie voor mijn portfolio",
-            "thumb": "portfoliothumb.gif",
-            "link": "null",
-            "images": "null"
+            "thumb": null,
+            "link": null,
+            "images": null
          }
       }
    }
