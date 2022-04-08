@@ -6,13 +6,15 @@
       "process": "Dit is mijn proces voor het bos in huis",
       "mypart": "dit is mijn aandeel voor het bos in huis",
       "reflect": "dit is mijn reflectie voor het bos in huis",
-      "thumb": "bosinhuis_2.gif",
-      "images": [
-         "Screenshot_20210705-140851.png",
-         "bever.png",
-         "Screenshot_2021-07-05_130901.png"
-      ],
-      "link": "https://lennart.xyz/bosinhuis/"
+      "visuals": {
+         "thumb": "bosinhuis_2.gif",
+         "images": [
+            "Screenshot_20210705-140851.png",
+            "bever.png",
+            "Screenshot_2021-07-05_130901.png"
+         ],
+         "link": "https://lennart.xyz/bosinhuis/"
+      }
    },
    {
       "work": "labs",
@@ -21,9 +23,11 @@
       "process": "Dit is mijn proces voor Be Braive",
       "mypart": "dit is mijn aandeel voor Be Braive",
       "reflect": "dit is mijn reflectie voor Be Braive",
-      "thumb": "braive.gif",
-      "images": null,
-      "link": null
+      "visuals": {
+         "thumb": "braive.gif",
+         "images": null,
+         "link": null
+      }
    },
    {
       "work": "per",
@@ -32,9 +36,11 @@
       "process": "Dit is mijn proces voor persuasion",
       "mypart": "dit is mijn aandeel voor persuasion",
       "reflect": "dit is mijn reflectie voor persuasion",
-      "thumb": "customerjourney.gif",
-      "images": null,
-      "link": null
+      "visuals": {
+         "thumb": "customerjourney.gif",
+         "images": null,
+         "link": null
+      }
    },
    {
       "work": "sto",
@@ -43,9 +49,11 @@
       "process": "Dit is mijn proces voor storytelling",
       "mypart": "dit is mijn aandeel voor storytelling",
       "reflect": "dit is mijn reflectie voor storytelling",
-      "thumb": null,
-      "images": null,
-      "link": null
+      "visuals": {
+         "thumb": null,
+         "images": null,
+         "link": null
+      }
    },
    {
       "work": "nad",
@@ -54,9 +62,11 @@
       "process": "Dit is mijn proces voor nad",
       "mypart": "dit is mijn aandeel voor nad",
       "reflect": "dit is mijn reflectie voor nad",
-      "thumb": "hero.gif",
-      "images": null,
-      "link": null
+      "visuals": {
+         "thumb": "hero.gif",
+         "images": null,
+         "link": null
+      }
    },
    {
       "work": "p5js",
@@ -65,9 +75,11 @@
       "process": "Dit is mijn proces voor p5js",
       "mypart": "dit is mijn aandeel voor p5js",
       "reflect": "dit is mijn reflectie voor p5js",
-      "thumb": "remcosspel_2_2.gif",
-      "images": null,
-      "link": null
+      "visuals": {
+         "thumb": "remcosspel_2_2.gif",
+         "images": null,
+         "link": null
+      }
    },
    {
       "work": "keu2",
@@ -76,8 +88,10 @@
       "process": "Dit is mijn proces voor mijn portfolio",
       "mypart": "dit is mijn aandeel voor mijn portfolio",
       "reflect": "dit is mijn reflectie voor mijn portfolio",
-      "thumb": "portfoliothumb.gif",
-      "images": null,
-      "link": null
+      "visuals": {
+         "thumb": "portfoliothumb.gif",
+         "images": null,
+         "link": null
+      }
    }
 ]
