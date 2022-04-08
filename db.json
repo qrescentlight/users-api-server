@@ -1,19 +1,139 @@
-{
-   "items": {
-      "work": "hbih",
-      "name": "Het Bos in Huis",
-      "desc": [
-         "Het Bos in Huis is een mobilegame om kinderen meer te leren over de dieren in het bos en naar buiten te krijgen.",
-         "Dit is mijn proces voor het bos in huis",
-         "dit is mijn aandeel voor het bos in huis",
-         "dit is mijn reflectie voor het bos in huis"
-      ],
-      "images": [
-         "bosinhuis_2.gif",
-         "Screenshot_20210705-140851.png",
-         "bever.png",
-         "Screenshot_2021-07-05_130901.png"
-      ],
-      "link": "https://lennart.xyz/bosinhuis/"
+[
+   {
+      "items": {
+         "work": {
+            "code": "hbih",
+            "name": "Het Bos in Huis"
+         },
+         "text": {
+            "desc": "Het Bos in Huis is een mobilegame om kinderen meer te leren over de dieren in het bos en naar buiten te krijgen.",
+            "process": "Dit is mijn proces voor het bos in huis",
+            "part": "dit is mijn aandeel voor het bos in huis",
+            "reflect": "dit is mijn reflectie voor het bos in huis"
+         },
+         "urls": {
+            "thumb": "bosinhuis_2.gif",
+            "link": "https://lennart.xyz/bosinhuis/",
+            "images": [
+               "Screenshot_20210705-140851.png",
+               "bever.png",
+               "Screenshot_ 2021-07-05 130901.png"
+            ]
+         }
+      }
+   },
+   {
+      "items": {
+         "work": {
+            "code": "labs",
+            "name": "Be Braive"
+         },
+         "text": {
+            "desc": "In samenwerking met Braive wordt er een mobiele game geproduceert om jongeren te helpen betere keuzes te maken door op zichzelf te reflecteren.",
+            "process": "Dit is mijn proces voor Be Braive",
+            "part": "dit is mijn aandeel voor Be Braive",
+            "reflect": "dit is mijn reflectie voor Be Braive"
+         },
+         "urls": {
+            "thumb": "braive.gif",
+            "link": null,
+            "images": null
+         }
+      }
+   },
+   {
+      "items": {
+         "work": {
+            "code": "per",
+            "name": "Hoe maak ik keuzes?"
+         },
+         "text": {
+            "desc": "Een customer journey voor een fictieve journaling app om mensen te helpen om keuzes te kunnen maken.",
+            "process": "Dit is mijn proces voor persuasion",
+            "part": "dit is mijn aandeel voor persuasion",
+            "reflect": "dit is mijn reflectie voor persuasion"
+         },
+         "urls": {
+            "thumb": "customerjourney.gif",
+            "link": null,
+            "images": null
+         }
+      }
+   },
+   {
+      "items": {
+         "work": {
+            "code": "sto",
+            "name": "Emotionele Mishandeling VR"
+         },
+         "text": {
+            "desc": "Een VR-applicatie om mensen te leren hoe het is om emotionele mishandeling te ervaren en om hulpverleners te leren hoe je overlevers van emotionele mishandeling kunt herkennen.",
+            "process": "Dit is mijn proces voor storytelling",
+            "part": "dit is mijn aandeel voor storytelling",
+            "reflect": "dit is mijn reflectie voor storytelling"
+         },
+         "urls": {
+            "thumb": null,
+            "link": null,
+            "images": null
+         }
+      }
+   },
+   {
+      "items": {
+         "work": {
+            "code": "nad",
+            "name": "From Song to Story"
+         },
+         "text": {
+            "desc": "From Song to Story is een interactief concept om een verhaal te maken aan de hand van de Heldenreis door muziek te spelen op een fysieke pianomat.",
+            "process": "Dit is mijn proces voor nad",
+            "part": "dit is mijn aandeel voor nad",
+            "reflect": "dit is mijn reflectie voor nad"
+         },
+         "urls": {
+            "thumb": "hero.gif",
+            "link": null,
+            "images": null
+         }
+      }
+   },
+   {
+      "items": {
+         "work": {
+            "code": "p5js",
+            "name": "UNRULY SPRING"
+         },
+         "text": {
+            "desc": "UNRULY SPRING is een static shootergame gemaakt in P5.js.",
+            "process": "Dit is mijn proces voor p5js",
+            "part": "dit is mijn aandeel voor p5js",
+            "reflect": "dit is mijn reflectie voor p5js"
+         },
+         "urls": {
+            "thumb": "remcosspel_2_2.gif",
+            "link": null,
+            "images": null
+         }
+      }
+   },
+   {
+      "items": {
+         "work": {
+            "code": "keu2",
+            "name": "Portfolio "
+         },
+         "text": {
+            "desc": "Deze portfoliowebsite is een Single Page Application met een eigengemaakte API en Framework.",
+            "process": "Dit is mijn proces voor mijn portfolio",
+            "part": "dit is mijn aandeel voor mijn portfolio",
+            "reflect": "dit is mijn reflectie voor mijn portfolio"
+         },
+         "urls": {
+            "thumb": "portfoliothumb.gif",
+            "link": null,
+            "images": null
+         }
+      }
    }
-}
+]
