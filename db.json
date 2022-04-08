@@ -97,43 +97,5 @@
             "images": null
          }
       }
-   },
-   {
-      "items": {
-         "work": {
-            "code": "p5js",
-            "name": "UNRULY SPRING"
-         },
-         "text": {
-            "desc": "UNRULY SPRING is een static shootergame gemaakt in P5.js.",
-            "process": "Dit is mijn proces voor p5js",
-            "part": "dit is mijn aandeel voor p5js",
-            "reflect": "dit is mijn reflectie voor p5js"
-         },
-         "urls": {
-            "thumb": "remcosspel_2_2.gif",
-            "link": null,
-            "images": null
-         }
-      }
-   },
-   {
-      "items": {
-         "work": {
-            "code": "keu2",
-            "name": "Portfolio "
-         },
-         "text": {
-            "desc": "Deze portfoliowebsite is een Single Page Application met een eigengemaakte API en Framework.",
-            "process": "Dit is mijn proces voor mijn portfolio",
-            "part": "dit is mijn aandeel voor mijn portfolio",
-            "reflect": "dit is mijn reflectie voor mijn portfolio"
-         },
-         "urls": {
-            "thumb": "portfoliothumb.gif",
-            "link": null,
-            "images": null
-         }
-      }
    }
 ]
