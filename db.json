@@ -6,15 +6,13 @@
          "desc": [
             "Het Bos in Huis is een mobilegame om kinderen meer te leren over de dieren in het bos en naar buiten te krijgen.",
             "In het AR-prototype is het de bedoeling dat je de Hiro-marker scant. Wanneer je het prototype de marker herkent, krijg je één van onze drie willekeurige spelletjes. Wanneer je deze uitspeelt, kun je de marker weer scannen voor één van de overgebleven spelletjes en daarna de laatste. Als het spel is uitgespeeld, kun je één van onze willekeurige diertjes zien.",
-            null,
-            null
+            "Het is echt gemaakt voor de mobiele telefoon.",
+            "scan de hiro-marker met jouw telefoon."
          ],
          "link": "https://rpvos94.home.xs4all.nl/bosinhuis/",
          "images": [
             "bosinhuis_2.gif",
-            "Afbeelding1.png",
-            "pattern-final_icon.png",
-            "Afbeelding2.png"
+            "pattern-final_icon.png"
          ]
       },
       {
@@ -45,15 +43,7 @@
          ],
          "link": "https://my.blocksmithxr.com/embed/57272",
          "images": [
-            "vrsto.gif",
-            "sto1.png",
-            "sto2.png",
-            "sto3.png",
-            "sto4.png",
-            "sto5.png",
-            "sto6.png",
-            "sto7.png",
-            "sto8.png"
+            "vrsto.gif"
          ]
       },
       {
@@ -68,9 +58,7 @@
          "link": "https://rpvos94.home.xs4all.nl/heldenreis/",
          "images": [
             "hero.gif",
-            "saw.jpg",
-            "herojourney.png",
-                        "IMAG0757.jpg",
+            "IMAG0757.jpg",
             "IMAG0758.jpg",
             "IMAG0759.jpg",
             "unknowzzzn.png",
@@ -82,7 +70,9 @@
          "name": "Second Chance",
          "desc": [
             "Second Chance is de game die wij in samenwerking met Braive maken om jongere te helpen te informeren over hun geestelijke gezondheid, te helpen reflecteren en om betere keuzes te maken.",
-            "Dit is de poster die ik heb gemaakt om ons concept en het verhaal te visualiseren", "Ik ben sinds kort begonnen met illustreren en ik wil die vaardigheid graag verder ontwikkelen.", null
+            "Dit is de poster die ik heb gemaakt om ons concept en het verhaal te visualiseren",
+            "Ik ben sinds kort begonnen met illustreren en ik wil die vaardigheid graag verder ontwikkelen.",
+            null
          ],
          "link": "https://rpvos94.home.xs4all.nl/labs/poster.pdf",
          "images": [
