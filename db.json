@@ -5,18 +5,16 @@
          "name": "Het Bos in Huis",
          "desc": [
             "Het Bos in Huis is een mobilegame om kinderen meer te leren over de dieren in het bos en naar buiten te krijgen.",
-            "In het AR-prototype is het de bedoeling dat je de Hiro-marker scant. Wanneer je het prototype de marker herkent, krijg je één van onze drie willekeurige spelletjes. Wanneer je deze uitspeelt, kun je de marker weer scannen voor één van de overgebleven spelletjes en daarna de laatste. Als het spel is uitgespeeld, kun je één van onze willekeurige diertjes zien.<br> Het prototype bestaat uit twee delen, een welkomstpagina zonder AR (index.html) en het spel zelf met AR (mainAR.html). Ik wilde graag dat het hele prototype op één pagina zou kunnen, echter is het mij niet gelukt om de AR.js pas later te laten activeren. Deze wordt geladen wanneer de pagina wordt geladen. Ik heb daarom het prototype over twee pagina's verdeeld.",
-            "De laatste toevoeging aan het prototype was de Hiro-marker. We hadden het idee om drie verschillende markers te gebruiken voor de verschillende opdrachten, maar ik wilde liever één marker met willekeurige opdrachten. Als de opdrachten willekeurig zijn, hoeft de gebruiker niet steeds dezelfde opdrachtjes te doen. Daarnaast kun je dezelfde marker gebruiken voor alle paaltjes. ",
-            "Als ik kijk naar de leerdoelen die ik mijzelf heb gesteld het afgelopen jaar, dan heb ik mij zeker ontwikkeld. Ik ga tegenwoordig veel georganiseerder aan het werk. Ik ben actief aan het plannen en begin veel eerder aan mijn werk. Ik verlies veel minder het overzicht en ik heb geleerd hoe ik deze weer terug kan krijgen."
+            "In het AR-prototype is het de bedoeling dat je de Hiro-marker scant. Wanneer je het prototype de marker herkent, krijg je één van onze drie willekeurige spelletjes. Wanneer je deze uitspeelt, kun je de marker weer scannen voor één van de overgebleven spelletjes en daarna de laatste. Als het spel is uitgespeeld, kun je één van onze willekeurige diertjes zien.",
+            null,
+            null
          ],
-         "link": "https://lennart.xyz/bosinhuis/",
+         "link": "https://rpvos94.home.xs4all.nl/bosinhuis/",
          "images": [
             "bosinhuis_2.gif",
             "Afbeelding1.png",
             "pattern-final_icon.png",
-            "bever.png",
-            "Afbeelding2.png",
-            "Afbeelding3.png"
+            "Afbeelding2.png"
          ]
       },
       {
@@ -25,8 +23,8 @@
          "desc": [
             "Een customer journey voor een fictieve journaling app om mensen te helpen om keuzes te kunnen maken.",
             "Het onderwerp van mijn concept is het maken van keuzes. Dit gedrag gaan wij duurzaam verbeteren met behulp van een app en cognitieve gedragstherapie.",
-            "We gaan bezig met de drie hoofdvragen:<br>  Hoe maak ik keuzes?<br>  Hoe ga ik om met de uitkomsten van mijn keuzes?<br>  Wat houdt mij tegen om keuzes te maken?<br> Deze drie hoofdvragen pakken respectievelijk het heden, de toekomst en het verleden aan.<br> De hele aanpak is gebaseerd op cognitieve gedragstherapie.<br><br> - Hoe maak ik keuzes?<br>  Welke technieken gebruiken we momenteel om keuzes te maken?<br>  Welke technieken kunnen we nog meer toepassen?<br>  Welke keuzes kunnen we nu maken?<br><br> - Hoe ga ik om met de uitkomsten?<br>  Leren omgaan met de uitkomsten van onze keuzes.<br>  Potentiële uitkomsten uitspelen: bedenk een hele goede uitkomst, een hele slechte en daarna de meest reële.<br>  Hoe kunnen we omgaan met deze potentiële uitkomsten?<br><br>- Wat houdt mij tegen?<br>  Waardoor durven we geen keuzes te maken?<br>  Waar zijn we bang voor?<br>  Wat betekent het als we een foute keuze maken?<br>  Durven we wel foute keuzes te maken?",
-            "- De app bestaat uit de volgende hoofdonderdelen:<br>- Personal Journey:<br>  Dit zijn stap-voor-stap-modules die je gemaakt zijn om je te helpen met het maken van keuzes.<br> - Journal Prompts<br>  Je houdt verschillende dagboeken bij, waarin je nadenkt over je gedachten en je gedrag.<br> - Video calls<br>  Je kunt met gediplomeerde professionals videocalls en chatgesprekken houden om je te helpen en je verantwoordelijk te houden.<br> - Group sessions<br>  Door schrijfopdrachten in groepen te maken, kun je elkaar verantwoordelijk houden om te blijven schrijven<br>  De groepsessies en experts voeren een sociale invloed uit op de gebruiker om het vol te blijven houden."
+            "We gaan bezig met de drie hoofdvragen:<br> *  Hoe maak ik keuzes?<br> *  Hoe ga ik om met de uitkomsten van mijn keuzes?<br> *  Wat houdt mij tegen om keuzes te maken?<br> Deze drie hoofdvragen pakken respectievelijk het heden, de toekomst en het verleden aan.<br> De hele aanpak is gebaseerd op cognitieve gedragstherapie.<br><br> - Hoe maak ik keuzes?<br> *  Welke technieken gebruiken we momenteel om keuzes te maken?<br> *  Welke technieken kunnen we nog meer toepassen?<br> *  Welke keuzes kunnen we nu maken?<br><br> - Hoe ga ik om met de uitkomsten?<br> *  Leren omgaan met de uitkomsten van onze keuzes.<br> *  Potentiële uitkomsten uitspelen: bedenk een hele goede uitkomst, een hele slechte en daarna de meest reële.<br> *  Hoe kunnen we omgaan met deze potentiële uitkomsten?<br><br>- Wat houdt mij tegen?<br> *  Waardoor durven we geen keuzes te maken?<br> *  Waar zijn we bang voor?<br> *  Wat betekent het als we een foute keuze maken?<br> *  Durven we wel foute keuzes te maken?",
+            "- De app bestaat uit de volgende hoofdonderdelen:<br>- Personal Journey:<br> *  Dit zijn stap-voor-stap-modules die je gemaakt zijn om je te helpen met het maken van keuzes.<br> - Journal Prompts<br> *  Je houdt verschillende dagboeken bij, waarin je nadenkt over je gedachten en je gedrag.<br> - Video calls<br> *  Je kunt met gediplomeerde professionals videocalls en chatgesprekken houden om je te helpen en je verantwoordelijk te houden.<br> - Group sessions<br> *  Door schrijfopdrachten in groepen te maken, kun je elkaar verantwoordelijk houden om te blijven schrijven<br> *  De groepsessies en experts voeren een sociale invloed uit op de gebruiker om het vol te blijven houden."
          ],
          "link": "https://rpvos94.home.xs4all.nl/persuasion/",
          "images": [
