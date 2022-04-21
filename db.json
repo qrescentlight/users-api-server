@@ -63,15 +63,14 @@
             "Van Muziek tot Heldenreis is een interactief concept om een verhaal te maken aan de hand van de Heldenreis door muziek te spelen op een fysieke pianomat.",
             "Je maakt je eigen verhaal aan de hand de hero's journey. Je bepaalt de keuzes in het verhaal door noten te spelen op onze pianomat. Elke noot die je speelt krijg en hardop te horen. <br><br> Wij hebben de twaalf fasen van de hero's journey verdeeld over 16 vlakken. Op deze vlakken krijg je de beelden terug te zien die bij de gespeelde noten horen. Zo kun je een storyboard zien van het verhaal dat je componeert. <br><br> Nadat alle vlakken gevuld zijn, kun je je eigen verhaal bekijken. Het verhaal wordt als een grote animatie op het beeldscherm laten zien. De noten die je gespeeld hebt krijg je ook weer te horen.<br><br> In ons concept komen muziek, keuzes, beeld en de hero's journey samen als storytelling. Het is belangrijk dat alle elementen wel een duidelijk terugkomen.",
             "Het doel van ons concept is om op een speelse manier anderen te informeren over storytelling en de hero's journey, en ze daarmee te activeren om meer storytelling tot zich te nemen. Daarnaast willen we laten zien dat muziek ook een vorm van storytelling is. Als laatste willen we ook gewoon mensen vermaken.",
-            "Het prototype is qua code eigenlijk nog vrij mager. Het is momenteel alleen goed te ervaren als je Vader Jacob speelt. Desalniettemin is het zeker werkende. Je kunt met je voeten een piano bespelen, en de muziek die je maakt vormt uiteindelijk een verhaal. Het verhaal is nog niet helemaal proper uitgebeeld, maar het is er wel.<br><br>  De piano is erg goed gemaakt door Vera en werkt uitstekend met onze makey-makey. Vera's broer ervaarde de pianomat als leuk, en ook vanuit de opleiding krijgen wij positieve opmerkingen.<br><br>Stilistisch gezien ben ik erg tevreden."
+            "Ik heb de code geschreven en de characters geschetst."
          ],
          "link": "https://rpvos94.home.xs4all.nl/heldenreis/",
          "images": [
             "hero.gif",
             "saw.jpg",
             "herojourney.png",
-            "mockup_bieb.png",
-            "IMAG0757.jpg",
+                        "IMAG0757.jpg",
             "IMAG0758.jpg",
             "IMAG0759.jpg",
             "unknowzzzn.png",
@@ -79,8 +78,8 @@
          ]
       },
       {
-         "id": "keu",
-         "name": "Portfoliowebsite",
+         "id": "labs",
+         "name": "Second Chance",
          "desc": [
             "Deze portfoliowebsite is een Single Page Application met een eigengemaakte API en Framework.",
             "Dit is mijn proces voor mijn portfolio",
